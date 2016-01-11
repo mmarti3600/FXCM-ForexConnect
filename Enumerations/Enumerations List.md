@@ -1,3 +1,5 @@
+# Enumerations
+
 IO2GChartSessionStatus::O2GChartSessionStatus:
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GChartSessionStatus.html
 
