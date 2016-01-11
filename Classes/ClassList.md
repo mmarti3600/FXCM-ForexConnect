@@ -74,11 +74,9 @@ The class reads a stream of offer rows coming from the trading server.
 
 [**IO2GOfferTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOfferTableRow.html)
 The class provides access to the offer information and calculated fields.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOfferTableRow.html
 
 [**IO2GOrderResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderResponseReader.html)
 A reader of a response belonging to the CreateOrderResponse type.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderResponseReader.html
 
 [**IO2GOrderRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderRow.html)
 The class provides access to order information.
@@ -91,7 +89,6 @@ The class reads a stream of order rows coming from the trading server.
 
 [**IO2GOrderTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderTableRow.html)
 The class provides access to the order information and calculated fields.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderTableRow.html
 
 [**IO2GPermissionChecker:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GPermissionChecker.html)
 Checks permissions.
@@ -128,7 +125,6 @@ The interface provides method signatures to process notifications about session 
 
 [**IO2GSummaryRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryRow.html)
 Summary information about a particular traded instrument in a response object.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryRow.html
 
 [**IO2GSummaryTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryTable.html)
 The class keeps in memory the up-to-date summary information per the instrument traded.
@@ -156,7 +152,6 @@ The interface provides method signatures to process notifications about trading 
 
 [**IO2GTableManager:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableManager.html)
 The class creates and maintains trading tables in the ForexConnect memory.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableManager.html
 
 [**IO2GTableManagerListener:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableManagerListener.html)
 The interface provides a method signature to process notifications about table manager status changes.
