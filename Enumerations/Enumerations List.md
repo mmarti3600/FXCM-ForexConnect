@@ -38,7 +38,6 @@ The enum specifies a set of constants representing the table manager mode that i
 
 [**O2GTableManagerStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableManagerStatus.html)
 The enum specifies a set of constants representing the table manager status.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableManagerStatus.html
 
 [**O2GTableStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableStatus.html)
 The enum specifies a set of constants representing the trading table load status.
