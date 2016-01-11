@@ -33,210 +33,163 @@ The class keeps in memory the up-to-date information about positions closed duri
 [**IO2GClosedTradesTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradesTableResponseReader.html)
 The class reads a stream of closed position rows coming from the trading server.
 
-**IO2GClosedTradeTableRow:**
+[**IO2GClosedTradeTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradeTableRow.html)
 The class provides access to the closed position information.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradeTableRow.html
 
-**IO2GEachRowListener:**
+[**IO2GEachRowListener:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GEachRowListener.html)
 The interface provides the method signature to process notifications about iteration through rows of a table.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GEachRowListener.html
 
-**IO2GGenericTableResponseReader:**
+[**IO2GGenericTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GGenericTableResponseReader.html)
 The class provides methods to read a stream of trading table rows coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GGenericTableResponseReader.html
 
-**IO2GLastOrderUpdateResponseReader:**
+[**IO2GLastOrderUpdateResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GLastOrderUpdateResponseReader.html)
 The class reads a response to a request for the current state of an order.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GLastOrderUpdateResponseReader.html
 
-**IO2GLoginRules:**
+[**IO2GLoginRules:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GLoginRules.html)
 Information about the rules used during the login in the currently established session.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GLoginRules.html
 
-**IO2GMarketDataSnapshotResponseReader:**
+[**IO2GMarketDataSnapshotResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMarketDataSnapshotResponseReader.html)
 The class reads a stream of historical prices.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMarketDataSnapshotResponseReader.html
 
-**IO2GMessageRow:**
+[**IO2GMessageRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessageRow.html)
 The class provides access to a message which is intended for the user.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessageRow.html
 
-**IO2GMessagesTable:**
+[**IO2GMessagesTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessagesTable.html)
 The class keeps in memory the up-to-date information about dealing desk messages received during the current trading day.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessagesTable.html
 
-**IO2GMessagesTableResponseReader:**
+[**IO2GMessagesTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessagesTableResponseReader.html)
 The class reads a stream of message rows coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessagesTableResponseReader.html
 
-**IO2GMessageTableRow:**
+[**IO2GMessageTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessageTableRow.html)
 The class provides access to the message information.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GMessageTableRow.html
 
-**IO2GOfferRow:**
+[**IO2GOfferRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOfferRow.html)
 The class provides access to offer information.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOfferRow.html
 
-**IO2GOffersTable:**
+[**IO2GOffersTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOffersTable.html)
 The class keeps in memory the up-to-date information about offers.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOffersTable.html
 
-**IO2GOffersTableResponseReader:**
+[**IO2GOffersTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOffersTableResponseReader.html)
 The class reads a stream of offer rows coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOffersTableResponseReader.html
 
-**IO2GOfferTableRow:**
+[**IO2GOfferTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOfferTableRow.html)
 The class provides access to the offer information and calculated fields.
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOfferTableRow.html
 
-**IO2GOrderResponseReader:**
+[**IO2GOrderResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderResponseReader.html)
 A reader of a response belonging to the CreateOrderResponse type.
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderResponseReader.html
 
-**IO2GOrderRow:**
+[**IO2GOrderRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderRow.html)
 The class provides access to order information.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderRow.html
 
-**IO2GOrdersTable:**
+[**IO2GOrdersTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrdersTable.html)
 An interface to the Orders table.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrdersTable.html
 
-**IO2GOrdersTableResponseReader:**
+[**IO2GOrdersTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrdersTableResponseReader.html)
 The class reads a stream of order rows coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrdersTableResponseReader.html
 
-**IO2GOrderTableRow:**
+[**IO2GOrderTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderTableRow.html)
 The class provides access to the order information and calculated fields.
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GOrderTableRow.html
 
-**IO2GPermissionChecker:**
+[**IO2GPermissionChecker:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GPermissionChecker.html)
 Checks permissions.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GPermissionChecker.html
 
-**IO2GRequest:**
+[**IO2GRequest:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GRequest.html)
 A request to the server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GRequest.html
 
-**IO2GRequestFactory:**
+[**IO2GRequestFactory:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GRequestFactory.html)
 A request factory.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GRequestFactory.html
 
-**IO2GResponse:**
+[**IO2GResponse:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GResponse.html)
 The class contains a response received from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GResponse.html
 
-**IO2GResponseListener:**
+[**IO2GResponseListener:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GResponseListener.html)
 The interface provides method signatures to process notifications about request completions, request failures and tables updates.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GResponseListener.html
 
-**IO2GResponseReaderFactory:**
+[**IO2GResponseReaderFactory:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GResponseReaderFactory.html)
 The class creates readers to process the content of the trading server responses.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GResponseReaderFactory.html
 
-**IO2GRow:**
+[**IO2GRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GRow.html)
 The class provides access to abstract row information.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GRow.html
 
-**IO2GSession:**
+[**IO2GSession:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSession.html)
 A session object.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSession.html
 
-**IO2GSessionDescriptor:**
+[**IO2GSessionDescriptor:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSessionDescriptor.html)
 A trading session descriptor.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSessionDescriptor.html
 
-**IO2GSessionDescriptorCollection:**
+[**IO2GSessionDescriptorCollection:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSessionDescriptorCollection.html)
 A collection of the trading session descriptors.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSessionDescriptorCollection.html
 
-**IO2GSessionStatus:**
+[**IO2GSessionStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSessionStatus.html)
 The interface provides method signatures to process notifications about session status changes and login failure.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSessionStatus.html
 
-**IO2GSummaryRow:**
+[**IO2GSummaryRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryRow.html)
 Summary information about a particular traded instrument in a response object.
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryRow.html
 
-**IO2GSummaryTable:**
+[**IO2GSummaryTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryTable.html)
 The class keeps in memory the up-to-date summary information per the instrument traded.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryTable.html
 
-**IO2GSummaryTableRow:**
+[**IO2GSummaryTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryTableRow.html)
 The class provides access to the summary information of the instrument traded.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSummaryTableRow.html
 
-**IO2GSystemPropertiesReader:**
+[**IO2GSystemPropertiesReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSystemPropertiesReader.html)
 A reader of the system properties.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GSystemPropertiesReader.html
 
-**IO2GTable:**
+[**IO2GTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTable.html)
 An abstract interface to a table.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTable.html
 
-**IO2GTableColumn:**
+[**IO2GTableColumn:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableColumn.html)
 The class provides access to a trading table column.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableColumn.html
 
-**IO2GTableColumnCollection:**
+[**IO2GTableColumnCollection:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableColumnCollection.html)
 The class provides access to the list of table columns.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableColumnCollection.html
 
-**IO2GTableIterator:**
+[**IO2GTableIterator:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableIterator.html)
 The class iterates through rows of a table.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableIterator.html
 
-**IO2GTableListener:**
+[**IO2GTableListener:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableListener.html)
 The interface provides method signatures to process notifications about trading tables events: adding/updating/deleting of rows, and changes in a table status.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableListener.html
 
-**IO2GTableManager:**
+[**IO2GTableManager:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableManager.html)
 The class creates and maintains trading tables in the ForexConnect memory.
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableManager.html
 
-**IO2GTableManagerListener:**
+[**IO2GTableManagerListener:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableManagerListener.html)
 The interface provides a method signature to process notifications about table manager status changes.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableManagerListener.html
 
-**IO2GTablesUpdatesReader:**
+[**IO2GTablesUpdatesReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTablesUpdatesReader.html)
 The class reads a stream of table updates coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTablesUpdatesReader.html
 
-**IO2GTimeConverter:**
+[**IO2GTimeConverter:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTimeConverter.html)
 A date/time converter between the time zones.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTimeConverter.html
 
-**IO2GTimeframe:**
+[**IO2GTimeframe:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTimeframe.html)
 A time frame description.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTimeframe.html
 
-**IO2GTimeframeCollection:**
+[**IO2GTimeframeCollection:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTimeframeCollection.html)
 A collection of the time frames available for the session.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTimeframeCollection.html
 
-**IO2GTradeRow:**
+[**IO2GTradeRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradeRow.html)
 The class provides access to open position information.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradeRow.html
 
-**IO2GTradesTable:**
+[**IO2GTradesTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradesTable.html)
 The class keeps in memory the up-to-date information about open positions.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradesTable.html
 
-**IO2GTradesTableResponseReader:**
+[**IO2GTradesTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradesTableResponseReader.html)
 The class reads a stream of open position rows coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradesTableResponseReader.html
 
-**IO2GTradeTableRow:**
+[**IO2GTradeTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradeTableRow.html)
 The class provides access to the open position information and calculated fields.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradeTableRow.html
 
-**IO2GTradingSettingsProvider:**
+[**IO2GTradingSettingsProvider:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradingSettingsProvider.html)
 Checks trading settings.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTradingSettingsProvider.html
 
-**IO2GValueMap:**
+[**IO2GValueMap:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GValueMap.html)
 A value map containing order parameters.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GValueMap.html
 
-**O2G2Ptr(T):**
+[**O2G2Ptr(T):**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2G2Ptr.html)
 Auto-release template class
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2G2Ptr.html
