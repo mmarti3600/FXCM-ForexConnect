@@ -1,69 +1,53 @@
 # Enumerations
 
-**IO2GChartSessionStatus::O2GChartSessionStatus:**
+[**IO2GChartSessionStatus::O2GChartSessionStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GChartSessionStatus.html)
 The enum specifies a set of constants representing the chart session status.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GChartSessionStatus.html
 
-**IO2GSessionStatus::O2GSessionStatus:**
+[**IO2GSessionStatus::O2GSessionStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GSessionStatus.html)
 The enum specifies a set of constants representing the session status.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GSessionStatus.html
 
-**IO2GTableColumn::O2GTableColumnType:**
+[**IO2GTableColumn::O2GTableColumnType:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableColumn_O2GTableColumnType.html)
 The enum specifies a set of constants representing the data type of a table column.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GTableColumn_O2GTableColumnType.html
 
-**O2GChartSessionMode:**
+[**O2GChartSessionMode:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GChartSessionMode.html)
 The enum specifies a set of constants representing the chart session modes.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GChartSessionMode.html
 
-**O2GMarketStatus:**
+[**O2GMarketStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GMarketStatus.html)
 The enum specifies a set of constants representing the market status.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GMarketStatus.html
 
-**O2GPermissionStatus:**
+[**O2GPermissionStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GPermissionStatus.html)
 The enum specifies a set of constants representing the permission status.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GPermissionStatus.html
 
-**O2GPriceUpdateMode:**
+[**O2GPriceUpdateMode:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GPriceUpdateMode.html)
 The enum specifies a set of constants representing the price update mode that indicates if a session receives prices or not.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GPriceUpdateMode.html
 
-**O2GReportUrlError:**
+[**O2GReportUrlError:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GReportUrlError.html)
 The errors returned by getReportURL.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GReportUrlError.html
 
-**O2GRequestParamsEnum:**
+[**O2GRequestParamsEnum:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GRequestParamsEnum.html)
 The request parameters.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GRequestParamsEnum.html
 
-**O2GResponseType:**
+[**O2GResponseType:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GResponseType.html)
 The enum specifies a set of constants representing the types of the trading server responses.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GResponseType.html
 
-**O2GTable:**
+[**O2GTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTable.html)
 The tables.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTable.html
 
-**O2GTableManagerMode:**
+[**O2GTableManagerMode:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableManagerMode.html)
 The enum specifies a set of constants representing the table manager mode that indicates if a session uses a table manager or not.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableManagerMode.html
 
-**O2GTableManagerStatus:**
+[**O2GTableManagerStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableManagerStatus.html)
 The enum specifies a set of constants representing the table manager status.
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableManagerStatus.html
 
-**O2GTableStatus:**
+[**O2GTableStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableStatus.html)
 The enum specifies a set of constants representing the trading table load status.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableStatus.html
 
-**O2GTableUpdateType:**
+[**O2GTableUpdateType:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableUpdateType.html)
 The enum specifies a set of constants representing the type of the trading table update.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTableUpdateType.html
 
-**O2GTimeConverter::TimeZone:**
+[**O2GTimeConverter::TimeZone:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTimeConverterTimeZone.html)
 The enum specifies a set of constants representing the time zone.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTimeConverterTimeZone.html
 
-**O2GTimeframeUnit:**
+[**O2GTimeframeUnit:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTimeframeUnit.html)
 The enum specifies a set of constants representing the unit of measurement of the historical prices time frame.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#O2GTimeframeUnit.html
