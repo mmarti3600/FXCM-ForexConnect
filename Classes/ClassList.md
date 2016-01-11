@@ -1,6 +1,6 @@
 # Classes
 
-**CO2GDateUtils:**
+[**CO2GDateUtils:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#CO2GDateUtils.html)
 The class converts between the OLE Automation date, SYSTEMTIME, and the C time formats.
 http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#CO2GDateUtils.html
 
