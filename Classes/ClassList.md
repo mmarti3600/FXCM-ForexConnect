@@ -2,47 +2,36 @@
 
 [**CO2GDateUtils:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#CO2GDateUtils.html)
 The class converts between the OLE Automation date, SYSTEMTIME, and the C time formats.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#CO2GDateUtils.html
 
-**CO2GTransport:**
+[**CO2GTransport:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#CO2GTransport.html)
 The class is used to create sessions and to configure the transport parameters.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#CO2GTransport.html
 
-**IAddRef:**
+[**IAddRef:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IAddRef.html)
 Manages the existence of an object. All objects created by ForexConnect API implement this interface.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IAddRef.html
 
-**IO2GAccountRow:**
+[**IO2GAccountRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountRow.html)
 The class provides access to account information.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountRow.html
 
-**IO2GAccountsTable:**
+[**IO2GAccountsTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountsTable.html)
 The class keeps up-to-date information about accounts in memory.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountsTable.html
 
-**IO2GAccountsTableResponseReader:**
+[**IO2GAccountsTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountsTableResponseReader.html)
 The class reads a stream of account rows coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountsTableResponseReader.html
 
-**IO2GAccountTableRow:**
+[**IO2GAccountTableRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountTableRow.html)
 The class provides access to the account information and calculated fields.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GAccountTableRow.html
 
-**IO2GChartSessionStatus:**
+[**IO2GChartSessionStatus:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GChartSessionStatus.html)
 Interface provides method signatures to process notifications about chart session status changes and login failures.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GChartSessionStatus.html
 
-**IO2GClosedTradeRow:**
+[**IO2GClosedTradeRow:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradeRow.html)
 The class provides access to information about a position closed during the current trading day.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradeRow.html
 
-**IO2GClosedTradesTable:**
+[**IO2GClosedTradesTable:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradesTable.html)
 The class keeps in memory the up-to-date information about positions closed during the current trading day.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradesTable.html
 
-**IO2GClosedTradesTableResponseReader:**
+[**IO2GClosedTradesTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradesTableResponseReader.html)
 The class reads a stream of closed position rows coming from the trading server.
-http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GClosedTradesTableResponseReader.html
 
 **IO2GClosedTradeTableRow:**
 The class provides access to the closed position information.
