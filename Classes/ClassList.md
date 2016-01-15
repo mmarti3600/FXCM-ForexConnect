@@ -39,7 +39,7 @@ The class provides access to the closed position information.
 [**IO2GEachRowListener:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GEachRowListener.html)
 The interface provides the method signature to process notifications about iteration through rows of a table.
 
-[**IO2GGenericTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GGenericTableResponseReader.html)
+[**IO2GGenericTableResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GGenericTableResponseReader.html) 
 The class provides methods to read a stream of trading table rows coming from the trading server.
 
 [**IO2GLastOrderUpdateResponseReader:**](http://fxcodebase.com/bin/forexconnect/1.3.2/help/CPlusPlus/web-content.html#IO2GLastOrderUpdateResponseReader.html)
